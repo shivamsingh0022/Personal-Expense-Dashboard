@@ -1,0 +1,501 @@
+Transaction ID,Date,Category,Description,Amount,Payment Method,Month,Month Number,Year
+EXP0001,2026-01-01,Other,Miscellaneous,2070,Debit Card,Jan,1,2026
+EXP0002,2026-01-01,Other,Miscellaneous,4102,UPI,Jan,1,2026
+EXP0003,2026-01-03,Rent,Hostel Rent,14333,Net Banking,Jan,1,2026
+EXP0004,2026-01-04,Education,Online Course,6372,Net Banking,Jan,1,2026
+EXP0005,2026-01-04,Entertainment,OTT Subscription,1114,Net Banking,Jan,1,2026
+EXP0006,2026-01-06,Entertainment,Concert,2987,Card,Jan,1,2026
+EXP0007,2026-01-07,Health,Health Checkup,964,Net Banking,Jan,1,2026
+EXP0008,2026-01-08,Rent,Hostel Rent,9988,UPI,Jan,1,2026
+EXP0009,2026-01-08,Shopping,Shoes,2924,Net Banking,Jan,1,2026
+EXP0010,2026-01-09,Education,Online Course,5719,UPI,Jan,1,2026
+EXP0011,2026-01-10,Rent,Room Rent,12467,Card,Jan,1,2026
+EXP0012,2026-01-14,Transport,Metro,2170,Net Banking,Jan,1,2026
+EXP0013,2026-01-14,Shopping,Shoes,11247,Debit Card,Jan,1,2026
+EXP0014,2026-01-14,Rent,Hostel Rent,14746,Card,Jan,1,2026
+EXP0015,2026-01-16,Transport,Cab,2827,Net Banking,Jan,1,2026
+EXP0016,2026-01-17,Other,Gift,1662,UPI,Jan,1,2026
+EXP0017,2026-01-18,Other,Miscellaneous,1176,UPI,Jan,1,2026
+EXP0018,2026-01-18,Transport,Petrol,1016,Cash,Jan,1,2026
+EXP0019,2026-01-19,Bills,Mobile Bill,3224,UPI,Jan,1,2026
+EXP0020,2026-01-19,Other,Gift,2023,Cash,Jan,1,2026
+EXP0021,2026-01-20,Entertainment,OTT Subscription,625,UPI,Jan,1,2026
+EXP0022,2026-01-20,Shopping,Accessories,7319,Cash,Jan,1,2026
+EXP0023,2026-01-21,Health,Dental,5045,Cash,Jan,1,2026
+EXP0024,2026-01-22,Entertainment,Concert,3832,UPI,Jan,1,2026
+EXP0025,2026-01-23,Travel,Travel Food,2545,Net Banking,Jan,1,2026
+EXP0026,2026-01-23,Bills,Electricity Bill,2885,Cash,Jan,1,2026
+EXP0027,2026-01-24,Bills,Water Bill,748,UPI,Jan,1,2026
+EXP0028,2026-01-26,Entertainment,OTT Subscription,3689,Debit Card,Jan,1,2026
+EXP0029,2026-01-26,Entertainment,OTT Subscription,1490,Card,Jan,1,2026
+EXP0030,2026-01-27,Education,Books,2900,UPI,Jan,1,2026
+EXP0031,2026-01-27,Other,Personal Care,1496,Debit Card,Jan,1,2026
+EXP0032,2026-01-28,Rent,Parking,5137,Net Banking,Jan,1,2026
+EXP0033,2026-01-28,Bills,Gas Bill,3263,Debit Card,Jan,1,2026
+EXP0034,2026-01-31,Transport,Metro,58,Net Banking,Jan,1,2026
+EXP0035,2026-02-01,Education,Books,610,Debit Card,Feb,2,2026
+EXP0036,2026-02-01,Bills,Water Bill,3490,Debit Card,Feb,2,2026
+EXP0037,2026-02-01,Shopping,Home Items,5226,Card,Feb,2,2026
+EXP0038,2026-02-02,Travel,Train Ticket,5307,Card,Feb,2,2026
+EXP0039,2026-02-03,Transport,Bus,2607,Debit Card,Feb,2,2026
+EXP0040,2026-02-04,Bills,Water Bill,1282,Debit Card,Feb,2,2026
+EXP0041,2026-02-04,Rent,Storage,17624,Debit Card,Feb,2,2026
+EXP0042,2026-02-04,Shopping,Clothes,1727,Net Banking,Feb,2,2026
+EXP0043,2026-02-05,Bills,Mobile Bill,2634,Card,Feb,2,2026
+EXP0044,2026-02-05,Transport,Petrol,425,Debit Card,Feb,2,2026
+EXP0045,2026-02-05,Rent,Hostel Rent,5207,Net Banking,Feb,2,2026
+EXP0046,2026-02-05,Entertainment,OTT Subscription,1542,Debit Card,Feb,2,2026
+EXP0047,2026-02-06,Bills,Mobile Bill,1920,Net Banking,Feb,2,2026
+EXP0048,2026-02-06,Health,Medicine,3673,UPI,Feb,2,2026
+EXP0049,2026-02-07,Health,Pharmacy,3789,Debit Card,Feb,2,2026
+EXP0050,2026-02-07,Shopping,Electronics,10166,Card,Feb,2,2026
+EXP0051,2026-02-08,Travel,Hotel,6046,Debit Card,Feb,2,2026
+EXP0052,2026-02-08,Transport,Cab,197,Cash,Feb,2,2026
+EXP0053,2026-02-08,Health,Dental,4303,Card,Feb,2,2026
+EXP0054,2026-02-09,Entertainment,Movie,2229,Debit Card,Feb,2,2026
+EXP0055,2026-02-09,Other,Donation,4437,Cash,Feb,2,2026
+EXP0056,2026-02-10,Health,Dental,2881,Card,Feb,2,2026
+EXP0057,2026-02-10,Rent,Parking,12850,Debit Card,Feb,2,2026
+EXP0058,2026-02-11,Food,Online Food,1184,Card,Feb,2,2026
+EXP0059,2026-02-11,Education,Course Fee,430,Cash,Feb,2,2026
+EXP0060,2026-02-11,Health,Pharmacy,4730,Debit Card,Feb,2,2026
+EXP0061,2026-02-11,Transport,Auto/Taxi,997,Net Banking,Feb,2,2026
+EXP0062,2026-02-13,Rent,Hostel Rent,2282,Card,Feb,2,2026
+EXP0063,2026-02-14,Other,Personal Care,360,UPI,Feb,2,2026
+EXP0064,2026-02-14,Shopping,Electronics,6723,Net Banking,Feb,2,2026
+EXP0065,2026-02-16,Travel,Hotel,7190,Cash,Feb,2,2026
+EXP0066,2026-02-16,Health,Pharmacy,3845,Card,Feb,2,2026
+EXP0067,2026-02-17,Bills,Internet Bill,4439,Debit Card,Feb,2,2026
+EXP0068,2026-02-17,Health,Pharmacy,3064,UPI,Feb,2,2026
+EXP0069,2026-02-17,Health,Dental,461,UPI,Feb,2,2026
+EXP0070,2026-02-19,Education,Online Course,5145,Cash,Feb,2,2026
+EXP0071,2026-02-19,Health,Dental,2877,Debit Card,Feb,2,2026
+EXP0072,2026-02-19,Health,Dental,3569,Net Banking,Feb,2,2026
+EXP0073,2026-02-19,Education,Course Fee,4757,UPI,Feb,2,2026
+EXP0074,2026-02-20,Education,Course Fee,1327,UPI,Feb,2,2026
+EXP0075,2026-02-20,Shopping,Accessories,3722,Net Banking,Feb,2,2026
+EXP0076,2026-02-22,Shopping,Electronics,11028,Cash,Feb,2,2026
+EXP0077,2026-02-22,Food,Online Food,1264,Net Banking,Feb,2,2026
+EXP0078,2026-02-24,Education,Course Fee,4021,UPI,Feb,2,2026
+EXP0079,2026-02-24,Rent,Hostel Rent,9924,Cash,Feb,2,2026
+EXP0080,2026-02-24,Health,Doctor,1540,Debit Card,Feb,2,2026
+EXP0081,2026-02-26,Food,Restaurant,160,Cash,Feb,2,2026
+EXP0082,2026-02-26,Transport,Auto/Taxi,2837,Net Banking,Feb,2,2026
+EXP0083,2026-02-27,Education,Online Course,2161,UPI,Feb,2,2026
+EXP0084,2026-02-27,Food,Online Food,2170,Card,Feb,2,2026
+EXP0085,2026-02-28,Entertainment,Sports,1076,Net Banking,Feb,2,2026
+EXP0086,2026-02-28,Rent,Hostel Rent,5882,Cash,Feb,2,2026
+EXP0087,2026-02-28,Education,Stationery,1108,Cash,Feb,2,2026
+EXP0088,2026-03-01,Entertainment,Gaming,2528,Cash,Mar,3,2026
+EXP0089,2026-03-03,Rent,Hostel Rent,7276,Card,Mar,3,2026
+EXP0090,2026-03-04,Transport,Petrol,1901,Card,Mar,3,2026
+EXP0091,2026-03-04,Food,Online Food,3373,Card,Mar,3,2026
+EXP0092,2026-03-06,Travel,Train Ticket,9740,Card,Mar,3,2026
+EXP0093,2026-03-06,Education,Books,3886,Net Banking,Mar,3,2026
+EXP0094,2026-03-09,Other,Personal Care,1363,Card,Mar,3,2026
+EXP0095,2026-03-09,Rent,Parking,17442,Cash,Mar,3,2026
+EXP0096,2026-03-10,Entertainment,Concert,3278,Net Banking,Mar,3,2026
+EXP0097,2026-03-12,Education,Stationery,4454,Net Banking,Mar,3,2026
+EXP0098,2026-03-12,Rent,Maintenance,3978,UPI,Mar,3,2026
+EXP0099,2026-03-14,Shopping,Clothes,2918,Cash,Mar,3,2026
+EXP0100,2026-03-15,Education,Online Course,6214,Cash,Mar,3,2026
+EXP0101,2026-03-16,Entertainment,Movie,1328,UPI,Mar,3,2026
+EXP0102,2026-03-16,Transport,Cab,1076,Card,Mar,3,2026
+EXP0103,2026-03-18,Education,Books,4973,Card,Mar,3,2026
+EXP0104,2026-03-18,Other,Other Expense,1245,Cash,Mar,3,2026
+EXP0105,2026-03-19,Transport,Cab,1294,UPI,Mar,3,2026
+EXP0106,2026-03-19,Food,Cafe,523,Cash,Mar,3,2026
+EXP0107,2026-03-20,Education,Course Fee,4618,Debit Card,Mar,3,2026
+EXP0108,2026-03-20,Travel,Hotel,6595,Net Banking,Mar,3,2026
+EXP0109,2026-03-22,Education,Online Course,6111,Cash,Mar,3,2026
+EXP0110,2026-03-22,Other,Gift,768,Cash,Mar,3,2026
+EXP0111,2026-03-25,Transport,Metro,151,Card,Mar,3,2026
+EXP0112,2026-03-26,Entertainment,OTT Subscription,3453,Cash,Mar,3,2026
+EXP0113,2026-03-27,Travel,Hotel,7825,UPI,Mar,3,2026
+EXP0114,2026-03-28,Shopping,Electronics,8645,Debit Card,Mar,3,2026
+EXP0115,2026-03-31,Travel,Travel Food,11174,Net Banking,Mar,3,2026
+EXP0116,2026-04-01,Food,Cafe,3327,Net Banking,Apr,4,2026
+EXP0117,2026-04-01,Travel,Flight,12860,Debit Card,Apr,4,2026
+EXP0118,2026-04-03,Transport,Cab,2742,Net Banking,Apr,4,2026
+EXP0119,2026-04-03,Other,Donation,3685,UPI,Apr,4,2026
+EXP0120,2026-04-05,Transport,Metro,1375,Card,Apr,4,2026
+EXP0121,2026-04-06,Entertainment,Movie,187,Cash,Apr,4,2026
+EXP0122,2026-04-06,Food,Fast Food,3338,Cash,Apr,4,2026
+EXP0123,2026-04-06,Travel,Flight,6518,Debit Card,Apr,4,2026
+EXP0124,2026-04-08,Shopping,Shoes,11997,Net Banking,Apr,4,2026
+EXP0125,2026-04-08,Shopping,Home Items,1701,Card,Apr,4,2026
+EXP0126,2026-04-09,Bills,Mobile Bill,4871,Cash,Apr,4,2026
+EXP0127,2026-04-09,Shopping,Clothes,11034,Card,Apr,4,2026
+EXP0128,2026-04-11,Rent,Parking,5101,Cash,Apr,4,2026
+EXP0129,2026-04-12,Health,Health Checkup,973,Card,Apr,4,2026
+EXP0130,2026-04-13,Food,Online Food,724,Card,Apr,4,2026
+EXP0131,2026-04-15,Entertainment,Gaming,3293,Card,Apr,4,2026
+EXP0132,2026-04-20,Rent,Parking,5340,Cash,Apr,4,2026
+EXP0133,2026-04-20,Bills,Gas Bill,2521,Debit Card,Apr,4,2026
+EXP0134,2026-04-20,Other,Miscellaneous,4123,Card,Apr,4,2026
+EXP0135,2026-04-21,Other,Miscellaneous,498,UPI,Apr,4,2026
+EXP0136,2026-04-21,Education,Books,959,Net Banking,Apr,4,2026
+EXP0137,2026-04-21,Health,Health Checkup,3816,Cash,Apr,4,2026
+EXP0138,2026-04-22,Food,Online Food,3113,Debit Card,Apr,4,2026
+EXP0139,2026-04-23,Entertainment,OTT Subscription,2139,UPI,Apr,4,2026
+EXP0140,2026-04-23,Education,Books,2076,UPI,Apr,4,2026
+EXP0141,2026-04-24,Bills,Water Bill,3164,Cash,Apr,4,2026
+EXP0142,2026-04-25,Transport,Petrol,2821,Debit Card,Apr,4,2026
+EXP0143,2026-04-25,Shopping,Shoes,2475,Card,Apr,4,2026
+EXP0144,2026-04-25,Shopping,Electronics,9313,Cash,Apr,4,2026
+EXP0145,2026-04-26,Health,Pharmacy,3096,UPI,Apr,4,2026
+EXP0146,2026-04-26,Entertainment,Concert,3037,Card,Apr,4,2026
+EXP0147,2026-04-26,Bills,Electricity Bill,1120,Net Banking,Apr,4,2026
+EXP0148,2026-04-26,Bills,Internet Bill,500,UPI,Apr,4,2026
+EXP0149,2026-04-27,Bills,Electricity Bill,1882,Net Banking,Apr,4,2026
+EXP0150,2026-04-27,Shopping,Home Items,1812,UPI,Apr,4,2026
+EXP0151,2026-04-28,Shopping,Clothes,5613,UPI,Apr,4,2026
+EXP0152,2026-04-29,Entertainment,Concert,3029,Net Banking,Apr,4,2026
+EXP0153,2026-04-29,Rent,Room Rent,6736,Net Banking,Apr,4,2026
+EXP0154,2026-05-01,Rent,Hostel Rent,13735,Net Banking,May,5,2026
+EXP0155,2026-05-01,Entertainment,Concert,1459,Debit Card,May,5,2026
+EXP0156,2026-05-02,Other,Miscellaneous,229,Card,May,5,2026
+EXP0157,2026-05-03,Entertainment,OTT Subscription,686,Cash,May,5,2026
+EXP0158,2026-05-04,Other,Gift,801,Net Banking,May,5,2026
+EXP0159,2026-05-05,Health,Pharmacy,3380,Debit Card,May,5,2026
+EXP0160,2026-05-05,Travel,Flight,3619,UPI,May,5,2026
+EXP0161,2026-05-05,Transport,Cab,890,UPI,May,5,2026
+EXP0162,2026-05-06,Health,Dental,3815,UPI,May,5,2026
+EXP0163,2026-05-06,Travel,Travel Food,14422,UPI,May,5,2026
+EXP0164,2026-05-07,Rent,Storage,9609,Debit Card,May,5,2026
+EXP0165,2026-05-07,Other,Other Expense,425,Debit Card,May,5,2026
+EXP0166,2026-05-08,Shopping,Accessories,7018,Debit Card,May,5,2026
+EXP0167,2026-05-09,Bills,Electricity Bill,1877,Cash,May,5,2026
+EXP0168,2026-05-10,Travel,Train Ticket,13969,UPI,May,5,2026
+EXP0169,2026-05-10,Education,Books,6528,Net Banking,May,5,2026
+EXP0170,2026-05-11,Entertainment,Concert,641,UPI,May,5,2026
+EXP0171,2026-05-12,Bills,Internet Bill,4795,Debit Card,May,5,2026
+EXP0172,2026-05-12,Bills,Internet Bill,1552,UPI,May,5,2026
+EXP0173,2026-05-15,Rent,Hostel Rent,17635,UPI,May,5,2026
+EXP0174,2026-05-16,Travel,Hotel,7430,Debit Card,May,5,2026
+EXP0175,2026-05-16,Food,Restaurant,3138,Net Banking,May,5,2026
+EXP0176,2026-05-16,Shopping,Shoes,4129,Card,May,5,2026
+EXP0177,2026-05-17,Food,Fast Food,3073,Cash,May,5,2026
+EXP0178,2026-05-17,Education,Online Course,4971,Debit Card,May,5,2026
+EXP0179,2026-05-17,Shopping,Home Items,1493,Net Banking,May,5,2026
+EXP0180,2026-05-17,Travel,Bus Ticket,2808,UPI,May,5,2026
+EXP0181,2026-05-18,Education,Course Fee,7005,UPI,May,5,2026
+EXP0182,2026-05-21,Travel,Train Ticket,12190,Cash,May,5,2026
+EXP0183,2026-05-21,Food,Online Food,2909,UPI,May,5,2026
+EXP0184,2026-05-23,Transport,Cab,1835,Net Banking,May,5,2026
+EXP0185,2026-05-23,Travel,Hotel,3164,Cash,May,5,2026
+EXP0186,2026-05-23,Health,Dental,770,Net Banking,May,5,2026
+EXP0187,2026-05-23,Travel,Bus Ticket,12795,Net Banking,May,5,2026
+EXP0188,2026-05-23,Travel,Bus Ticket,14827,UPI,May,5,2026
+EXP0189,2026-05-24,Food,Fast Food,989,Net Banking,May,5,2026
+EXP0190,2026-05-24,Other,Other Expense,1073,Card,May,5,2026
+EXP0191,2026-05-25,Travel,Travel Food,14956,Net Banking,May,5,2026
+EXP0192,2026-05-26,Shopping,Shoes,4669,Net Banking,May,5,2026
+EXP0193,2026-05-26,Travel,Bus Ticket,9249,Card,May,5,2026
+EXP0194,2026-05-27,Bills,Water Bill,2939,Net Banking,May,5,2026
+EXP0195,2026-05-27,Travel,Bus Ticket,12932,Net Banking,May,5,2026
+EXP0196,2026-05-27,Rent,Room Rent,4522,Net Banking,May,5,2026
+EXP0197,2026-05-28,Other,Miscellaneous,2980,UPI,May,5,2026
+EXP0198,2026-05-29,Shopping,Shoes,1854,Net Banking,May,5,2026
+EXP0199,2026-05-31,Health,Doctor,3816,UPI,May,5,2026
+EXP0200,2026-05-31,Travel,Travel Food,10419,Net Banking,May,5,2026
+EXP0201,2026-06-01,Bills,Mobile Bill,1769,Cash,Jun,6,2026
+EXP0202,2026-06-01,Education,Stationery,1638,Card,Jun,6,2026
+EXP0203,2026-06-03,Rent,Parking,14382,Cash,Jun,6,2026
+EXP0204,2026-06-03,Shopping,Shoes,4533,UPI,Jun,6,2026
+EXP0205,2026-06-03,Other,Miscellaneous,4255,Debit Card,Jun,6,2026
+EXP0206,2026-06-03,Transport,Auto/Taxi,1530,Debit Card,Jun,6,2026
+EXP0207,2026-06-04,Shopping,Clothes,4106,Net Banking,Jun,6,2026
+EXP0208,2026-06-04,Health,Pharmacy,103,Cash,Jun,6,2026
+EXP0209,2026-06-04,Travel,Train Ticket,1496,Net Banking,Jun,6,2026
+EXP0210,2026-06-05,Transport,Auto/Taxi,1371,Card,Jun,6,2026
+EXP0211,2026-06-06,Travel,Travel Food,12258,Net Banking,Jun,6,2026
+EXP0212,2026-06-08,Travel,Flight,1116,UPI,Jun,6,2026
+EXP0213,2026-06-08,Travel,Bus Ticket,6526,Debit Card,Jun,6,2026
+EXP0214,2026-06-10,Bills,Internet Bill,4381,Debit Card,Jun,6,2026
+EXP0215,2026-06-10,Entertainment,Concert,775,Net Banking,Jun,6,2026
+EXP0216,2026-06-10,Health,Pharmacy,4289,UPI,Jun,6,2026
+EXP0217,2026-06-10,Transport,Metro,2233,Cash,Jun,6,2026
+EXP0218,2026-06-11,Entertainment,Gaming,2893,Cash,Jun,6,2026
+EXP0219,2026-06-11,Health,Dental,642,Card,Jun,6,2026
+EXP0220,2026-06-14,Shopping,Shoes,5603,Net Banking,Jun,6,2026
+EXP0221,2026-06-15,Education,Course Fee,3802,UPI,Jun,6,2026
+EXP0222,2026-06-16,Food,Fast Food,1568,Cash,Jun,6,2026
+EXP0223,2026-06-18,Transport,Cab,61,Cash,Jun,6,2026
+EXP0224,2026-06-18,Entertainment,Movie,3317,Cash,Jun,6,2026
+EXP0225,2026-06-19,Travel,Train Ticket,11660,Card,Jun,6,2026
+EXP0226,2026-06-19,Shopping,Home Items,1833,Debit Card,Jun,6,2026
+EXP0227,2026-06-19,Education,Stationery,2419,Cash,Jun,6,2026
+EXP0228,2026-06-19,Transport,Metro,2705,Cash,Jun,6,2026
+EXP0229,2026-06-20,Transport,Petrol,2140,UPI,Jun,6,2026
+EXP0230,2026-06-20,Transport,Bus,711,Net Banking,Jun,6,2026
+EXP0231,2026-06-20,Health,Doctor,2285,Card,Jun,6,2026
+EXP0232,2026-06-21,Shopping,Shoes,11223,Cash,Jun,6,2026
+EXP0233,2026-06-23,Shopping,Home Items,1433,Card,Jun,6,2026
+EXP0234,2026-06-23,Food,Online Food,2368,Card,Jun,6,2026
+EXP0235,2026-06-23,Shopping,Shoes,3339,Card,Jun,6,2026
+EXP0236,2026-06-27,Rent,Parking,3584,Cash,Jun,6,2026
+EXP0237,2026-06-27,Travel,Hotel,12744,Net Banking,Jun,6,2026
+EXP0238,2026-06-29,Entertainment,OTT Subscription,678,Debit Card,Jun,6,2026
+EXP0239,2026-06-29,Rent,Maintenance,11851,UPI,Jun,6,2026
+EXP0240,2026-06-30,Other,Personal Care,2349,UPI,Jun,6,2026
+EXP0241,2026-07-01,Entertainment,Concert,1295,Debit Card,Jul,7,2026
+EXP0242,2026-07-01,Bills,Mobile Bill,884,Debit Card,Jul,7,2026
+EXP0243,2026-07-02,Shopping,Electronics,4150,UPI,Jul,7,2026
+EXP0244,2026-07-03,Bills,Internet Bill,1142,Cash,Jul,7,2026
+EXP0245,2026-07-05,Travel,Bus Ticket,7635,Card,Jul,7,2026
+EXP0246,2026-07-05,Health,Pharmacy,365,Debit Card,Jul,7,2026
+EXP0247,2026-07-05,Rent,Storage,4573,Net Banking,Jul,7,2026
+EXP0248,2026-07-05,Entertainment,Gaming,1027,Cash,Jul,7,2026
+EXP0249,2026-07-07,Food,Cafe,309,Debit Card,Jul,7,2026
+EXP0250,2026-07-07,Transport,Auto/Taxi,2517,Debit Card,Jul,7,2026
+EXP0251,2026-07-08,Travel,Travel Food,2626,Debit Card,Jul,7,2026
+EXP0252,2026-07-08,Other,Donation,1895,Card,Jul,7,2026
+EXP0253,2026-07-08,Entertainment,Movie,2790,UPI,Jul,7,2026
+EXP0254,2026-07-09,Rent,Maintenance,6063,Net Banking,Jul,7,2026
+EXP0255,2026-07-10,Rent,Room Rent,17905,UPI,Jul,7,2026
+EXP0256,2026-07-14,Education,Stationery,7346,Debit Card,Jul,7,2026
+EXP0257,2026-07-15,Other,Miscellaneous,4808,Cash,Jul,7,2026
+EXP0258,2026-07-16,Bills,Gas Bill,4463,Card,Jul,7,2026
+EXP0259,2026-07-17,Other,Donation,2186,UPI,Jul,7,2026
+EXP0260,2026-07-18,Health,Dental,5661,Debit Card,Jul,7,2026
+EXP0261,2026-07-19,Education,Stationery,6132,Card,Jul,7,2026
+EXP0262,2026-07-21,Other,Other Expense,322,UPI,Jul,7,2026
+EXP0263,2026-07-22,Food,Fast Food,2297,UPI,Jul,7,2026
+EXP0264,2026-07-22,Rent,Parking,8725,Net Banking,Jul,7,2026
+EXP0265,2026-07-22,Travel,Bus Ticket,4839,Card,Jul,7,2026
+EXP0266,2026-07-23,Education,Online Course,2244,UPI,Jul,7,2026
+EXP0267,2026-07-23,Bills,Electricity Bill,2289,UPI,Jul,7,2026
+EXP0268,2026-07-24,Education,Stationery,7569,Debit Card,Jul,7,2026
+EXP0269,2026-07-24,Transport,Bus,2159,Debit Card,Jul,7,2026
+EXP0270,2026-07-24,Health,Medicine,2660,Net Banking,Jul,7,2026
+EXP0271,2026-07-25,Health,Medicine,4116,Net Banking,Jul,7,2026
+EXP0272,2026-07-25,Travel,Train Ticket,9953,UPI,Jul,7,2026
+EXP0273,2026-07-25,Rent,Room Rent,2484,UPI,Jul,7,2026
+EXP0274,2026-07-26,Entertainment,Sports,671,Card,Jul,7,2026
+EXP0275,2026-07-27,Food,Fast Food,803,Debit Card,Jul,7,2026
+EXP0276,2026-07-27,Bills,Mobile Bill,3323,Net Banking,Jul,7,2026
+EXP0277,2026-07-27,Rent,Parking,4847,Cash,Jul,7,2026
+EXP0278,2026-07-28,Education,Exam Fee,4016,Net Banking,Jul,7,2026
+EXP0279,2026-07-30,Education,Stationery,7311,UPI,Jul,7,2026
+EXP0280,2026-07-30,Food,Fast Food,3150,Net Banking,Jul,7,2026
+EXP0281,2026-07-30,Education,Course Fee,3838,Debit Card,Jul,7,2026
+EXP0282,2026-08-01,Entertainment,Gaming,3242,Debit Card,Aug,8,2026
+EXP0283,2026-08-01,Rent,Maintenance,8156,Card,Aug,8,2026
+EXP0284,2026-08-02,Transport,Petrol,2194,Cash,Aug,8,2026
+EXP0285,2026-08-02,Other,Miscellaneous,318,Debit Card,Aug,8,2026
+EXP0286,2026-08-03,Bills,Internet Bill,2982,Debit Card,Aug,8,2026
+EXP0287,2026-08-03,Rent,Storage,8226,Net Banking,Aug,8,2026
+EXP0288,2026-08-04,Health,Doctor,5142,Debit Card,Aug,8,2026
+EXP0289,2026-08-05,Bills,Gas Bill,1947,Cash,Aug,8,2026
+EXP0290,2026-08-08,Entertainment,Sports,2693,UPI,Aug,8,2026
+EXP0291,2026-08-08,Other,Personal Care,3065,Card,Aug,8,2026
+EXP0292,2026-08-09,Transport,Auto/Taxi,2225,Net Banking,Aug,8,2026
+EXP0293,2026-08-12,Health,Health Checkup,3267,Cash,Aug,8,2026
+EXP0294,2026-08-13,Rent,Parking,1256,Debit Card,Aug,8,2026
+EXP0295,2026-08-14,Travel,Hotel,13248,Net Banking,Aug,8,2026
+EXP0296,2026-08-14,Education,Stationery,1440,Net Banking,Aug,8,2026
+EXP0297,2026-08-15,Health,Health Checkup,5073,Net Banking,Aug,8,2026
+EXP0298,2026-08-15,Rent,Room Rent,2657,Debit Card,Aug,8,2026
+EXP0299,2026-08-15,Travel,Bus Ticket,8875,Net Banking,Aug,8,2026
+EXP0300,2026-08-15,Education,Exam Fee,2650,Net Banking,Aug,8,2026
+EXP0301,2026-08-16,Transport,Bus,168,UPI,Aug,8,2026
+EXP0302,2026-08-16,Bills,Mobile Bill,1113,Cash,Aug,8,2026
+EXP0303,2026-08-16,Shopping,Electronics,11141,Cash,Aug,8,2026
+EXP0304,2026-08-18,Other,Gift,749,UPI,Aug,8,2026
+EXP0305,2026-08-18,Other,Miscellaneous,153,Card,Aug,8,2026
+EXP0306,2026-08-18,Food,Grocery,1305,Card,Aug,8,2026
+EXP0307,2026-08-19,Education,Books,3598,UPI,Aug,8,2026
+EXP0308,2026-08-19,Other,Personal Care,2485,UPI,Aug,8,2026
+EXP0309,2026-08-19,Travel,Hotel,14592,Debit Card,Aug,8,2026
+EXP0310,2026-08-20,Shopping,Shoes,3881,UPI,Aug,8,2026
+EXP0311,2026-08-20,Bills,Water Bill,3076,Net Banking,Aug,8,2026
+EXP0312,2026-08-21,Rent,Storage,17184,Card,Aug,8,2026
+EXP0313,2026-08-21,Education,Online Course,4988,Net Banking,Aug,8,2026
+EXP0314,2026-08-21,Education,Online Course,6435,Net Banking,Aug,8,2026
+EXP0315,2026-08-22,Transport,Metro,2784,Debit Card,Aug,8,2026
+EXP0316,2026-08-22,Food,Restaurant,1779,Card,Aug,8,2026
+EXP0317,2026-08-22,Health,Pharmacy,1692,Net Banking,Aug,8,2026
+EXP0318,2026-08-23,Education,Books,276,Net Banking,Aug,8,2026
+EXP0319,2026-08-24,Shopping,Electronics,9633,Net Banking,Aug,8,2026
+EXP0320,2026-08-24,Education,Books,3777,UPI,Aug,8,2026
+EXP0321,2026-08-25,Shopping,Shoes,8365,Cash,Aug,8,2026
+EXP0322,2026-08-25,Health,Dental,5342,Debit Card,Aug,8,2026
+EXP0323,2026-08-26,Food,Online Food,1120,UPI,Aug,8,2026
+EXP0324,2026-08-27,Entertainment,Concert,837,Debit Card,Aug,8,2026
+EXP0325,2026-08-27,Entertainment,Sports,797,UPI,Aug,8,2026
+EXP0326,2026-08-28,Food,Grocery,348,Net Banking,Aug,8,2026
+EXP0327,2026-08-28,Entertainment,OTT Subscription,1265,Debit Card,Aug,8,2026
+EXP0328,2026-08-28,Transport,Cab,2237,UPI,Aug,8,2026
+EXP0329,2026-08-28,Travel,Hotel,8648,UPI,Aug,8,2026
+EXP0330,2026-08-28,Rent,Parking,1376,UPI,Aug,8,2026
+EXP0331,2026-08-29,Travel,Hotel,13547,Cash,Aug,8,2026
+EXP0332,2026-08-30,Bills,Water Bill,4815,Card,Aug,8,2026
+EXP0333,2026-08-30,Food,Online Food,2399,Cash,Aug,8,2026
+EXP0334,2026-08-30,Food,Restaurant,2224,Card,Aug,8,2026
+EXP0335,2026-08-31,Entertainment,Sports,2515,Card,Aug,8,2026
+EXP0336,2026-09-01,Travel,Hotel,12817,Card,Sep,9,2026
+EXP0337,2026-09-02,Rent,Storage,6158,UPI,Sep,9,2026
+EXP0338,2026-09-02,Bills,Mobile Bill,2931,Cash,Sep,9,2026
+EXP0339,2026-09-02,Transport,Metro,2531,Cash,Sep,9,2026
+EXP0340,2026-09-03,Travel,Hotel,3520,UPI,Sep,9,2026
+EXP0341,2026-09-05,Travel,Bus Ticket,6073,Debit Card,Sep,9,2026
+EXP0342,2026-09-05,Travel,Flight,14028,Debit Card,Sep,9,2026
+EXP0343,2026-09-05,Entertainment,Sports,3263,Debit Card,Sep,9,2026
+EXP0344,2026-09-06,Travel,Bus Ticket,14666,Net Banking,Sep,9,2026
+EXP0345,2026-09-06,Bills,Internet Bill,1426,Card,Sep,9,2026
+EXP0346,2026-09-08,Rent,Hostel Rent,16600,Net Banking,Sep,9,2026
+EXP0347,2026-09-10,Food,Fast Food,2369,Debit Card,Sep,9,2026
+EXP0348,2026-09-11,Food,Restaurant,2157,Debit Card,Sep,9,2026
+EXP0349,2026-09-11,Health,Doctor,1308,UPI,Sep,9,2026
+EXP0350,2026-09-11,Education,Course Fee,4194,Card,Sep,9,2026
+EXP0351,2026-09-12,Rent,Parking,10899,Net Banking,Sep,9,2026
+EXP0352,2026-09-12,Health,Doctor,1158,Net Banking,Sep,9,2026
+EXP0353,2026-09-12,Other,Donation,2002,Net Banking,Sep,9,2026
+EXP0354,2026-09-13,Other,Other Expense,234,Debit Card,Sep,9,2026
+EXP0355,2026-09-13,Travel,Train Ticket,3835,Cash,Sep,9,2026
+EXP0356,2026-09-15,Rent,Maintenance,6310,Card,Sep,9,2026
+EXP0357,2026-09-15,Bills,Gas Bill,655,Debit Card,Sep,9,2026
+EXP0358,2026-09-15,Food,Grocery,2222,Card,Sep,9,2026
+EXP0359,2026-09-16,Travel,Hotel,14362,UPI,Sep,9,2026
+EXP0360,2026-09-16,Health,Pharmacy,3752,Card,Sep,9,2026
+EXP0361,2026-09-16,Travel,Hotel,3659,UPI,Sep,9,2026
+EXP0362,2026-09-18,Shopping,Shoes,1322,Debit Card,Sep,9,2026
+EXP0363,2026-09-18,Entertainment,OTT Subscription,3569,Net Banking,Sep,9,2026
+EXP0364,2026-09-20,Transport,Metro,425,Card,Sep,9,2026
+EXP0365,2026-09-21,Education,Books,3483,UPI,Sep,9,2026
+EXP0366,2026-09-21,Health,Pharmacy,3978,Cash,Sep,9,2026
+EXP0367,2026-09-21,Bills,Mobile Bill,4276,Card,Sep,9,2026
+EXP0368,2026-09-21,Food,Online Food,1992,Net Banking,Sep,9,2026
+EXP0369,2026-09-25,Entertainment,Sports,3460,Debit Card,Sep,9,2026
+EXP0370,2026-09-27,Food,Fast Food,3238,Debit Card,Sep,9,2026
+EXP0371,2026-09-27,Shopping,Clothes,8002,Net Banking,Sep,9,2026
+EXP0372,2026-09-27,Health,Health Checkup,4809,UPI,Sep,9,2026
+EXP0373,2026-09-28,Health,Medicine,2460,Card,Sep,9,2026
+EXP0374,2026-09-28,Education,Books,7714,Debit Card,Sep,9,2026
+EXP0375,2026-09-29,Rent,Hostel Rent,12448,Cash,Sep,9,2026
+EXP0376,2026-09-30,Bills,Gas Bill,4877,Cash,Sep,9,2026
+EXP0377,2026-09-30,Travel,Travel Food,5411,Net Banking,Sep,9,2026
+EXP0378,2026-10-02,Travel,Bus Ticket,7412,Card,Oct,10,2026
+EXP0379,2026-10-03,Travel,Hotel,5946,Debit Card,Oct,10,2026
+EXP0380,2026-10-04,Travel,Flight,1817,Debit Card,Oct,10,2026
+EXP0381,2026-10-04,Transport,Cab,2410,Net Banking,Oct,10,2026
+EXP0382,2026-10-06,Education,Books,3461,Cash,Oct,10,2026
+EXP0383,2026-10-06,Health,Health Checkup,2736,Card,Oct,10,2026
+EXP0384,2026-10-07,Education,Online Course,5197,Net Banking,Oct,10,2026
+EXP0385,2026-10-07,Education,Course Fee,7002,Net Banking,Oct,10,2026
+EXP0386,2026-10-08,Education,Stationery,5093,Debit Card,Oct,10,2026
+EXP0387,2026-10-09,Transport,Bus,1844,Net Banking,Oct,10,2026
+EXP0388,2026-10-09,Food,Cafe,460,Cash,Oct,10,2026
+EXP0389,2026-10-09,Transport,Bus,2211,Debit Card,Oct,10,2026
+EXP0390,2026-10-10,Health,Medicine,1940,UPI,Oct,10,2026
+EXP0391,2026-10-10,Health,Pharmacy,179,UPI,Oct,10,2026
+EXP0392,2026-10-10,Shopping,Shoes,243,Net Banking,Oct,10,2026
+EXP0393,2026-10-11,Bills,Gas Bill,2069,Card,Oct,10,2026
+EXP0394,2026-10-11,Rent,Parking,14942,Debit Card,Oct,10,2026
+EXP0395,2026-10-11,Food,Cafe,2025,UPI,Oct,10,2026
+EXP0396,2026-10-13,Health,Dental,2164,Debit Card,Oct,10,2026
+EXP0397,2026-10-14,Entertainment,Concert,649,Debit Card,Oct,10,2026
+EXP0398,2026-10-14,Other,Miscellaneous,3725,Debit Card,Oct,10,2026
+EXP0399,2026-10-14,Health,Pharmacy,1366,Card,Oct,10,2026
+EXP0400,2026-10-15,Education,Stationery,4504,Net Banking,Oct,10,2026
+EXP0401,2026-10-15,Other,Other Expense,4660,UPI,Oct,10,2026
+EXP0402,2026-10-15,Bills,Mobile Bill,4832,Cash,Oct,10,2026
+EXP0403,2026-10-15,Shopping,Electronics,4464,Net Banking,Oct,10,2026
+EXP0404,2026-10-17,Transport,Auto/Taxi,767,UPI,Oct,10,2026
+EXP0405,2026-10-17,Food,Fast Food,2282,Net Banking,Oct,10,2026
+EXP0406,2026-10-18,Other,Gift,530,Card,Oct,10,2026
+EXP0407,2026-10-18,Education,Course Fee,5569,Net Banking,Oct,10,2026
+EXP0408,2026-10-18,Other,Gift,2844,Cash,Oct,10,2026
+EXP0409,2026-10-18,Bills,Internet Bill,3621,Net Banking,Oct,10,2026
+EXP0410,2026-10-19,Other,Personal Care,2855,UPI,Oct,10,2026
+EXP0411,2026-10-20,Health,Pharmacy,5334,UPI,Oct,10,2026
+EXP0412,2026-10-21,Health,Health Checkup,2471,UPI,Oct,10,2026
+EXP0413,2026-10-22,Bills,Internet Bill,2686,Net Banking,Oct,10,2026
+EXP0414,2026-10-23,Rent,Hostel Rent,6070,Net Banking,Oct,10,2026
+EXP0415,2026-10-24,Travel,Travel Food,11034,Debit Card,Oct,10,2026
+EXP0416,2026-10-24,Food,Fast Food,2458,Net Banking,Oct,10,2026
+EXP0417,2026-10-25,Education,Course Fee,563,Cash,Oct,10,2026
+EXP0418,2026-10-25,Rent,Room Rent,15736,Debit Card,Oct,10,2026
+EXP0419,2026-10-26,Rent,Hostel Rent,15083,Card,Oct,10,2026
+EXP0420,2026-10-28,Other,Personal Care,1317,Net Banking,Oct,10,2026
+EXP0421,2026-10-28,Rent,Storage,11801,UPI,Oct,10,2026
+EXP0422,2026-10-28,Food,Fast Food,2460,UPI,Oct,10,2026
+EXP0423,2026-10-28,Bills,Internet Bill,715,Debit Card,Oct,10,2026
+EXP0424,2026-10-29,Bills,Electricity Bill,881,UPI,Oct,10,2026
+EXP0425,2026-10-30,Food,Fast Food,2178,UPI,Oct,10,2026
+EXP0426,2026-10-31,Other,Donation,1502,Debit Card,Oct,10,2026
+EXP0427,2026-11-01,Other,Miscellaneous,3697,UPI,Nov,11,2026
+EXP0428,2026-11-02,Other,Donation,4380,Net Banking,Nov,11,2026
+EXP0429,2026-11-02,Shopping,Home Items,6452,Debit Card,Nov,11,2026
+EXP0430,2026-11-02,Entertainment,Movie,3560,Card,Nov,11,2026
+EXP0431,2026-11-05,Transport,Cab,1253,Cash,Nov,11,2026
+EXP0432,2026-11-06,Transport,Bus,263,Net Banking,Nov,11,2026
+EXP0433,2026-11-06,Bills,Mobile Bill,1967,Cash,Nov,11,2026
+EXP0434,2026-11-06,Education,Exam Fee,537,UPI,Nov,11,2026
+EXP0435,2026-11-07,Shopping,Shoes,5296,UPI,Nov,11,2026
+EXP0436,2026-11-07,Travel,Hotel,13209,Card,Nov,11,2026
+EXP0437,2026-11-07,Education,Course Fee,5415,Card,Nov,11,2026
+EXP0438,2026-11-08,Entertainment,Movie,888,Cash,Nov,11,2026
+EXP0439,2026-11-09,Bills,Electricity Bill,4103,Cash,Nov,11,2026
+EXP0440,2026-11-09,Shopping,Shoes,10448,Card,Nov,11,2026
+EXP0441,2026-11-09,Transport,Bus,1577,Cash,Nov,11,2026
+EXP0442,2026-11-09,Health,Pharmacy,5696,Card,Nov,11,2026
+EXP0443,2026-11-10,Education,Course Fee,3419,Debit Card,Nov,11,2026
+EXP0444,2026-11-11,Rent,Room Rent,17468,Card,Nov,11,2026
+EXP0445,2026-11-11,Other,Other Expense,3249,Net Banking,Nov,11,2026
+EXP0446,2026-11-14,Entertainment,Gaming,2723,UPI,Nov,11,2026
+EXP0447,2026-11-15,Other,Gift,700,Debit Card,Nov,11,2026
+EXP0448,2026-11-17,Entertainment,Sports,2644,Card,Nov,11,2026
+EXP0449,2026-11-18,Food,Fast Food,3330,Net Banking,Nov,11,2026
+EXP0450,2026-11-19,Other,Personal Care,1310,Card,Nov,11,2026
+EXP0451,2026-11-22,Transport,Cab,1052,Card,Nov,11,2026
+EXP0452,2026-11-22,Health,Dental,2177,UPI,Nov,11,2026
+EXP0453,2026-11-23,Entertainment,Sports,2134,Card,Nov,11,2026
+EXP0454,2026-11-23,Education,Books,5728,Card,Nov,11,2026
+EXP0455,2026-11-23,Entertainment,OTT Subscription,1195,UPI,Nov,11,2026
+EXP0456,2026-11-24,Other,Donation,1157,Net Banking,Nov,11,2026
+EXP0457,2026-11-24,Other,Personal Care,614,UPI,Nov,11,2026
+EXP0458,2026-11-24,Shopping,Clothes,4706,Card,Nov,11,2026
+EXP0459,2026-11-25,Other,Gift,514,Cash,Nov,11,2026
+EXP0460,2026-11-26,Education,Course Fee,5689,Debit Card,Nov,11,2026
+EXP0461,2026-11-26,Health,Doctor,3882,Card,Nov,11,2026
+EXP0462,2026-11-27,Transport,Auto/Taxi,471,Card,Nov,11,2026
+EXP0463,2026-11-27,Food,Grocery,2771,Debit Card,Nov,11,2026
+EXP0464,2026-11-29,Health,Medicine,1245,UPI,Nov,11,2026
+EXP0465,2026-11-29,Shopping,Clothes,708,Card,Nov,11,2026
+EXP0466,2026-11-30,Bills,Mobile Bill,4196,Debit Card,Nov,11,2026
+EXP0467,2026-12-02,Shopping,Home Items,10286,Net Banking,Dec,12,2026
+EXP0468,2026-12-02,Education,Online Course,1219,Cash,Dec,12,2026
+EXP0469,2026-12-05,Education,Books,4344,Cash,Dec,12,2026
+EXP0470,2026-12-05,Travel,Bus Ticket,3611,Cash,Dec,12,2026
+EXP0471,2026-12-07,Education,Exam Fee,2771,UPI,Dec,12,2026
+EXP0472,2026-12-13,Rent,Maintenance,13928,Cash,Dec,12,2026
+EXP0473,2026-12-14,Other,Personal Care,4416,Cash,Dec,12,2026
+EXP0474,2026-12-15,Other,Gift,4404,Net Banking,Dec,12,2026
+EXP0475,2026-12-15,Rent,Parking,5205,Debit Card,Dec,12,2026
+EXP0476,2026-12-16,Rent,Parking,12146,UPI,Dec,12,2026
+EXP0477,2026-12-18,Bills,Mobile Bill,3833,UPI,Dec,12,2026
+EXP0478,2026-12-19,Food,Restaurant,1900,Net Banking,Dec,12,2026
+EXP0479,2026-12-20,Travel,Hotel,8361,Cash,Dec,12,2026
+EXP0480,2026-12-20,Entertainment,OTT Subscription,3612,Cash,Dec,12,2026
+EXP0481,2026-12-20,Bills,Water Bill,4410,Debit Card,Dec,12,2026
+EXP0482,2026-12-21,Health,Medicine,2791,Debit Card,Dec,12,2026
+EXP0483,2026-12-22,Transport,Auto/Taxi,313,Net Banking,Dec,12,2026
+EXP0484,2026-12-22,Travel,Hotel,11355,Net Banking,Dec,12,2026
+EXP0485,2026-12-23,Food,Online Food,1658,Net Banking,Dec,12,2026
+EXP0486,2026-12-23,Travel,Bus Ticket,13795,Card,Dec,12,2026
+EXP0487,2026-12-23,Entertainment,Gaming,597,Debit Card,Dec,12,2026
+EXP0488,2026-12-23,Entertainment,Sports,3449,UPI,Dec,12,2026
+EXP0489,2026-12-24,Health,Dental,2376,Card,Dec,12,2026
+EXP0490,2026-12-24,Bills,Gas Bill,3437,Card,Dec,12,2026
+EXP0491,2026-12-25,Entertainment,Movie,3549,Net Banking,Dec,12,2026
+EXP0492,2026-12-26,Shopping,Home Items,834,Net Banking,Dec,12,2026
+EXP0493,2026-12-26,Entertainment,Sports,191,Debit Card,Dec,12,2026
+EXP0494,2026-12-26,Entertainment,Concert,1587,UPI,Dec,12,2026
+EXP0495,2026-12-28,Health,Health Checkup,5536,Card,Dec,12,2026
+EXP0496,2026-12-29,Travel,Flight,9086,Debit Card,Dec,12,2026
+EXP0497,2026-12-29,Health,Medicine,4359,Debit Card,Dec,12,2026
+EXP0498,2026-12-29,Shopping,Electronics,9357,Net Banking,Dec,12,2026
+EXP0499,2026-12-30,Transport,Bus,2306,UPI,Dec,12,2026
+EXP0500,2026-12-30,Shopping,Accessories,9082,Cash,Dec,12,2026
